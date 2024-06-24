@@ -11,6 +11,13 @@ The "Amazon Sales Analysis - 2022 (March-June)" project includes a comprehensive
 - **Geographical Insights**: Sales performance segmented by geographical regions.
 - **Time Series Analysis**: Trends in daily and monthly sales volumes and revenues.
 - **Customer Behavior**: Insights into customer purchasing patterns and preferences.
+- 
+## Accessing the Dashboard Online
+
+You can view the Tableau dashboard online through Tableau Public. Click the link below to explore the interactive dashboard:
+
+[**Amazon Sales Analysis - 2022 (March-June) Dashboard on Tableau Public**](https://public.tableau.com/views/AmazonSalesAnalysis-2022March-June/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 ## Files in This Repository
 
@@ -53,4 +60,4 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 
 ## Contact
 
-For any questions or inquiries, please contact ajay09officialQ@gmail.com
+For any questions or inquiries, please contact ajay09official@gmail.com
